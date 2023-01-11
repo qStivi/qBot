@@ -103,4 +103,5 @@ hs_err_pid*
 replay_pid*
 
 # sensitive data
-secrets.properties
+*.properties
+*.db
